@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/kocandrle69/VarnishCalcWeb/static/css/main.36cddec0.css",
-    "main.js": "/kocandrle69/VarnishCalcWeb/static/js/main.33e5a2c0.js",
+    "main.js": "/kocandrle69/VarnishCalcWeb/static/js/main.a1fec034.js",
     "static/js/453.b08692cd.chunk.js": "/kocandrle69/VarnishCalcWeb/static/js/453.b08692cd.chunk.js",
     "static/media/Ball_logo.jpg": "/kocandrle69/VarnishCalcWeb/static/media/Ball_logo.536319053d379bc1a82c.jpg",
     "index.html": "/kocandrle69/VarnishCalcWeb/index.html",
     "static/media/getFetch.cjs": "/kocandrle69/VarnishCalcWeb/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
     "main.36cddec0.css.map": "/kocandrle69/VarnishCalcWeb/static/css/main.36cddec0.css.map",
-    "main.33e5a2c0.js.map": "/kocandrle69/VarnishCalcWeb/static/js/main.33e5a2c0.js.map",
+    "main.a1fec034.js.map": "/kocandrle69/VarnishCalcWeb/static/js/main.a1fec034.js.map",
     "453.b08692cd.chunk.js.map": "/kocandrle69/VarnishCalcWeb/static/js/453.b08692cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36cddec0.css",
-    "static/js/main.33e5a2c0.js"
+    "static/js/main.a1fec034.js"
   ]
 }
